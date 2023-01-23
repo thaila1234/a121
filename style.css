@@ -1,0 +1,42 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+    padding: 10px;
+  }
+  .headingDiv2
+  {
+    font-size: 18px;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ .result_para_tag span{
+  white-space: pre-line;
+ }
+ .copyRightFooter{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(151, 151, 151);
+  line-height: 3;
+  color: black;
+  text-align: center;
+ }
+ canvas{
+  border: 5px solid;
+  border-color: rgb(150, 111, 111);
+  border-radius: 25px;
+  margin-top: 97px;
+ }
